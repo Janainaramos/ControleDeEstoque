@@ -1,4 +1,4 @@
-# Controle de Estoques (Média Ponderada)
+# Controle de Estoques 
 
 Este repositório contém uma planilha em Excel para **controle de estoques** utilizando o método da média ponderada.  
 O objetivo é facilitar o acompanhamento de entradas, saídas e saldo de produtos, além de calcular automaticamente o preço médio e o valor total em estoque.
